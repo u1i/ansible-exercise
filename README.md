@@ -21,6 +21,8 @@ This is the place where you run ansible. Once more, do this in the Google Cloud 
 
 `./run-ansible.sh`
 
+This will create a directory 'ansible' in your $HOME directory. All files you create and edit should be in there.
+
 ## 2 – The Hosts
 
 These are the machines we want to manipulate using Ansible. Provision one or two in the cloud and make sure they have Ubuntu 18.04 running.
