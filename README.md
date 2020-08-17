@@ -13,6 +13,8 @@ Getting started with Ansible – execute commands and run playbooks against a se
 
 This is the place where you run ansible. Once more, do this in the Google Cloud Shell for example, but any Mac or Linux with Docker should be fine.
 
+![](./shell.png)
+
 `git clone https://github.com/u1i/devops-course`
 
 `cd devops-course/scripts`
