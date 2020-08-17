@@ -72,4 +72,4 @@ The following command should now work:
 
 ### Run the playbook
 
-`ansible-playbook h.yaml -u devops`
+`ansible-playbook apache.yaml -u devops`
