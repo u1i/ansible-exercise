@@ -33,7 +33,7 @@ In an SSH session do this:
 
 `cd devops-course/scripts`
 
-`./add-user.sh`
+`sudo ./add-user.sh`
 
 **WARNING: This one opens a 'backdoor' to your machine by installing SSH Keys. Do only use for test machines and delete them right after**
 
